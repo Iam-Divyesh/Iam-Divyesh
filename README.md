@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on ****
+ 🔭 I’m currently working on **Ecommerce Project**
  
- 🌱 I’m currently learning **Nextjs, Backend, AWS**
+ 🌱 I’m currently learning **ReactJs, Postman, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Iam-Divyesh/Iam-Divyesh/issues)**
+💬 Ask me about **React, Postman... or anything [here](https://github.com/Iam-Divyesh/Iam-Divyesh/issues)**
 
 ⚡ Fun fact is **FUN**😁
 
